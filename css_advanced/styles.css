@@ -171,6 +171,24 @@ li a{
   color: #C271FF;
 }
 
+.membership{
+  background-color: #071629;
+  padding-top:30px;
+  padding-bottom: 20px;
+  height: 502px;
+}
+.justify-center{
+  display: flex;
+  justify-content: center;
+}
+.membership p{
+  color: #FFFFFF;
+  line-height: 1.5;
+}
+.text-white{
+  color: #FFFFFF;
+}
+
 
 
 
