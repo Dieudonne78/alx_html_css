@@ -128,6 +128,49 @@ li a{
   font-weight: 400;
 }
 
+.popular-tutorials{
+  display: flex; 
+  justify-content: space-around;
+  gap: 20px;
+}
+.author{
+  width: 30px;
+  height:30px;
+  border: 50%;
+}
+.author-name{
+  margin-top: 5px;
+}
+.flex-box{
+  display: flex; 
+  gap: 10px;
+}
+.icon-color{
+  color: #C271FF;
+}
+.video-description{
+  font-family: 'Source Sans Pro';
+  font-weight: 400;
+  color: #07162980;
+  width:255px;
+
+}
+.section-title{
+  display: flex;
+  justify-content: center;
+  font-family: 'Source Sans Pro';
+  font-weight: 300;
+  font-size: 32px;
+}
+.scale-time{
+  display: flex;
+  justify-content: space-between;
+}
+.duration{
+  margin-top: 0;
+  color: #C271FF;
+}
+
 
 
 
