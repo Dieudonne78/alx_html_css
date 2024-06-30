@@ -102,6 +102,32 @@ li a{
     font-style: italic;
 }
 
+.testimonial{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 392px;
+  background-color: #C271FF;
+  color: #FFFFFF;
+}
+
+.Person{margin-left: 40px;}
+.person-name{
+  font-family: 'Source Sans Pro';
+  font-size: 22px;
+}
+.person-weather{
+  font-family: 'Source Sans Pro';
+  font-size: 22px;
+  font-weight: 400;
+  font-style: italic;
+}
+.tutorials{
+  font-family: Source Sans Pro;
+  font-size: 22px;
+  font-weight: 400;
+}
+
 
 
 
