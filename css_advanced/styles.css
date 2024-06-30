@@ -200,6 +200,32 @@ li a{
   gap: 20px;
 }
 
+.footer-content{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 8%;
+}
+
+footer{
+  margin-top: 30px;
+  background-color: #071629;
+  height: 249px;
+  padding-bottom: 25px;
+}
+.copyright{
+  margin-top: 50px;
+}
+.social-media{
+  width: 30px;
+  height: 30px;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
 
 
 
