@@ -1,4 +1,106 @@
 
+.header-banner{
+  background-image: url(./images/Object.png);
+  padding-top: 30px; 
+  padding-bottom: 50px;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+.menu{
+  display: flex;
+  margin-right: 10%;
+  gap: 40px;
+}
+ul{
+  list-style: none;
+}
+li a{
+  text-decoration: none;
+  color: white;
+}
+.logo{
+    margin-left: 10%;
+    width: 167.02px;
+    height: 29.46px;
+    margin-top: 10px;
+ }
+
+ .div-one-h1{
+  display: flex; 
+  justify-content: center;
+  margin-top: 5%;
+}
+ .div-one-span{
+  display: flex; 
+  justify-content: center;
+  margin-top: -110px;
+}
+ .get-schooled{
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+    color: #FFFFFF;
+    
+    }
+.span{
+  font-family: 'Source Sans Pro';
+  color: white;
+  margin-right: 25px;
+}
+.register-button{
+    width: 162px;
+    height: 44px;
+    background: #C271FF;
+    border: none;
+    margin-top: 35px;
+    border-radius: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    margin-bottom: 100px;
+
+    }
+
+.learn-from{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-left: -80px;
+}
+.learn{
+  color: #C271FF;
+}
+
+.images-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.Avatar{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.Avatar-name{
+    font-family: 'Source Sans Pro';
+    color: white;
+    font-weight: 900;
+}
+
+.Avatar-smile{  
+    font-family: 'Source Sans Pro';
+    color: white;
+    font-weight: 400;
+    font-style: italic;
+}
 
 
 
