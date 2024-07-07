@@ -1,0 +1,52 @@
+.section-three{
+  padding: 5%;
+  background:
+        radial-gradient(circle at 25% 25%, #bde5e5 10%, transparent 70%), 
+        radial-gradient(circle at 50% 50%, #a2d8ea 10%, transparent 70%), 
+        radial-gradient(circle at 75% 75%, #7fbfd8 10%, transparent 70%), 
+        radial-gradient(circle at 100% 100%, #64a8c7 10%, transparent 70%); 
+}
+
+
+.section-div1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+}
+
+#our-results {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6%;
+}
+
+.pentagon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 120px;
+  background-color: #FF6565;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+  color: white;
+  font-family: Source Sans Pro;
+  text-align: center;
+  padding: 8px;
+}
+
+.text-top{
+margin-top: 20px;
+margin-bottom: 10px;
+font-weight: bold;
+font-size: 30px;
+}
+
+.text-bottom{
+font-size: 10px;
+}
+
+
+ 
